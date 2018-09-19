@@ -1,0 +1,10 @@
+﻿Clé de l'API (v3 auth)
+e9b7597c5703d825bcbd7504ffee209a
+Jeton d'accès en lecture à l'API (v4 auth)
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlOWI3NTk3YzU3MDNkODI1YmNiZDc1MDRmZmVlMjA5YSIsInN1YiI6IjViMmFiZTQzYzNhMzY4M2UxYTAwMTM3NCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NvAckbJLxr06sZoYHQS_T45AhyGPO0lve9NHoqP6kbw
+Exemple de requête API
+https://api.themoviedb.org/3/movie/550?api_key=e9b7597c5703d825bcbd7504ffee209a
+https://www.themoviedb.org/settings/api
+
+illusiondev 
+mdp normal

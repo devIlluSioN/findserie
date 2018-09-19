@@ -1,0 +1,67 @@
+\\Mac\Home\Desktop\FindSerie\FindSerie\bin\Debug\FindSerie.exe.config
+\\Mac\Home\Desktop\FindSerie\FindSerie\bin\Debug\FindSerie.exe
+\\Mac\Home\Desktop\FindSerie\FindSerie\bin\Debug\FindSerie.pdb
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.Form1.resources
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.Properties.Resources.resources
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.exe
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.pdb
+\\Mac\Home\Desktop\FindSerie\FindSerie\bin\Debug\Fonction.dll
+\\Mac\Home\Desktop\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.CopyComplete
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\bin\Debug\FindSerie.exe.config
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\bin\Debug\FindSerie.exe
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\bin\Debug\FindSerie.pdb
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\bin\Debug\Fonction.dll
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csprojResolveAssemblyReference.cache
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.Form1.resources
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.Properties.Resources.resources
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.GenerateResource.Cache
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.CoreCompileInputs.cache
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.exe
+D:\Mes Fichiers\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.pdb
+\\Mac\Home\Documents\FindSerie\FindSerie\bin\Debug\FindSerie.exe.config
+\\Mac\Home\Documents\FindSerie\FindSerie\bin\Debug\FindSerie.exe
+\\Mac\Home\Documents\FindSerie\FindSerie\bin\Debug\FindSerie.pdb
+\\Mac\Home\Documents\FindSerie\FindSerie\bin\Debug\Fonction.dll
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.Form1.resources
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.Properties.Resources.resources
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.GenerateResource.cache
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.csproj.CopyComplete
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.exe
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.pdb
+\\Mac\Home\Documents\FindSerie\FindSerie\obj\Debug\FindSerie.RenameSerie.resources
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.Form1.resources
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.Properties.Resources.resources
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.RenameSerie.resources
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.csproj.GenerateResource.cache
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.exe
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.pdb
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\FindSerie.exe.config
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\FindSerie.exe
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\FindSerie.pdb
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Fonction.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.csproj.CopyComplete
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Delimon.Win32.IO.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.xml
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\TMDbLib.pdb
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\TMDbLib.dll
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.SeeNewDisponibility.resources
+\\Mac\Home\Documents\FindSerie V2\FindSerie\obj\Debug\FindSerie.MovieDbSelectSerie.resources
+\\Mac\Home\Documents\FindSerie V2\FindSerie\bin\Debug\Bunifu_UI_v1.4.dll

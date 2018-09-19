@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSerie", "FindSerie\FindSerie.csproj", "{C9B58EFE-3C68-4CFA-A132-82CBA3F32B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameSerieGraph", "..\RenameSerieGraph\RenameSerieGraph\RenameSerieGraph.csproj", "{51D4EB52-C49B-40CD-9D70-DC2833A5F787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B58EFE-3C68-4CFA-A132-82CBA3F32B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B58EFE-3C68-4CFA-A132-82CBA3F32B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B58EFE-3C68-4CFA-A132-82CBA3F32B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B58EFE-3C68-4CFA-A132-82CBA3F32B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D4EB52-C49B-40CD-9D70-DC2833A5F787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D4EB52-C49B-40CD-9D70-DC2833A5F787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D4EB52-C49B-40CD-9D70-DC2833A5F787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D4EB52-C49B-40CD-9D70-DC2833A5F787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CFC2B61-39AF-4203-815B-03F50388145E}
+	EndGlobalSection
+EndGlobal
